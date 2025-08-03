@@ -32,14 +32,6 @@ O primeiro vilão: **Moranguxo**, um morango sombrio que quer dominar o pomar.
 
 ---
 
-## Como Abrir o Projeto
-
-1. Abre o **GameMaker Studio 2**
-2. Vai a **File > Open Project**
-3. Escolhe o ficheiro `pesseguxo.yyp`
-
----
-
 ## 📷 Imagens
 
 > ![Pesseguxo pulando obstaculo](https://github.com/user-attachments/assets/e213f3bf-e44a-41fa-8baa-03e47eff1b39)
