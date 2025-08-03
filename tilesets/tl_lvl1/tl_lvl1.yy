@@ -1,0 +1,43 @@
+{
+  "$GMTileSet":"v1",
+  "%Name":"tl_lvl1",
+  "autoTileSets":[
+    {"$GMAutoTileSet":"","%Name":"moranguxolvl1","closed_edge":false,"name":"moranguxolvl1","resourceType":"GMAutoTileSet","resourceVersion":"2.0","tiles":[
+        17,21,20,37,12,60,36,53,13,29,61,45,28,44,52,42,16,38,14,56,9,30,15,57,18,31,23,59,25,39,22,58,19,33,
+        8,40,10,41,26,49,24,48,11,32,27,34,35,
+      ],},
+  ],
+  "macroPageTiles":{
+    "SerialiseHeight":0,
+    "SerialiseWidth":0,
+    "TileSerialiseData":[],
+  },
+  "name":"tl_lvl1",
+  "out_columns":8,
+  "out_tilehborder":2,
+  "out_tilevborder":2,
+  "parent":{
+    "name":"Tile Sets",
+    "path":"folders/Tile Sets.yy",
+  },
+  "resourceType":"GMTileSet",
+  "resourceVersion":"2.0",
+  "spriteId":{
+    "name":"spr_lvl1",
+    "path":"sprites/spr_lvl1/spr_lvl1.yy",
+  },
+  "spriteNoExport":false,
+  "textureGroupId":{
+    "name":"Default",
+    "path":"texturegroups/Default",
+  },
+  "tileAnimationFrames":[],
+  "tileAnimationSpeed":15.0,
+  "tileHeight":16,
+  "tilehsep":0,
+  "tilevsep":0,
+  "tileWidth":16,
+  "tilexoff":0,
+  "tileyoff":0,
+  "tile_count":64,
+}
